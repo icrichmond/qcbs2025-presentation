@@ -1,1 +1,6 @@
-# qcbs2025-presentation
+# Green alleys in Quebec provide variable biodiversity support and ecosystem services
+
+Isabella C Richmond, Kayleigh Hutt-Taylor, Johanna Arnet, Lauren Bianco, Antonia Vieira Zanella, Carly D Ziter
+
+## Abstract
+Green infrastructure is increasing in popularity in cities around the world because of its potential to improve the sustainability of our cities and resident quality of life. One example of an increasingly popular type of green infrastructure is green alleyways. Green alleyways provide an opportunity to green dense urban centers, and are already established as important social and recreational spaces. We studied alleys in two Quebec cities using interdisciplinary methods to assess their capacity to support biodiversity and provide ecosystem services. We found that green alleys have the potential to support biodiversity and provide ecosystem services, but do not consistently do so now.  Alleys in our study system most strongly supported biodiversity compared ecosystem service delivery. Vegetative complexity and proportion of native tree species are both higher in green alleys than traditional “grey” alleys and adjacent streets. The proportion of flowering trees was one ecosystem service that was consistently higher in green alleys. We recommend ongoing funding paired with technical expert support to increase the impact of green alleys.
