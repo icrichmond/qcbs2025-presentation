@@ -1,0 +1,392 @@
+---
+title: "Les ruelles vertes du Québec et leurs bénéfices écologiques"
+author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
+title-slide-attributes:
+  data-background-image: /presentation_imgs/image832.png
+  data-background-opacity: "0.65"
+  data-notes: "Allo, je suis Bella et je fais ma doctorante à l'Université de Concordia. Aujourd'hui je vous présente une partie de mon doc, en collaboration avec mes collègues a UQAM, Respire, et UdeM qui s'appelle « Les ruelles vertes du Québec et leurs bénéfices écologiques : les liens entre la variation des bénéfices et l'aménagement et la gestion des ruelles »"
+format: 
+  revealjs:
+    theme: simple
+    slide-number: c
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## L'infrastructure verte dans le cadre de la politique
+
+::: columns
+::: {.column width="50%"}
+![](presentation_imgs/ppec.png){fig-align="left"}
+
+![](presentation_imgs/montrealbudg.png){fig-align="left"}
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/TR_IV.png){fig-align="right"}
+:::
+:::
+
+::: notes
+-   Notre projet se concentre sur l'infrastructure verte, qui était
+    défini par Québec Vert comme les infrastructures végétalisées
+    incluent toutes les phytotechnologies et les pratiques de
+    verdissement
+-   Aujourd'hui, nos villes combattent plusieurs problèmes à cause du
+    changement climatique, comme des inondations, l'effet d'ilot de
+    chaleur urbain, et une perte de connexion entre des résidents et la
+    nature. Des infrastructures vertes sont une solution de plus en plus
+    populaire de faire face ces problèmes.
+-   En effet, il y a plusieurs politiques au Québec ou des
+    infrastructures vertes sont inclues. Par exemple, le plan pour une
+    économie verte 2030 au Québec et le budget pour la ville de Montréal
+    intègrent l'infrastructure verte dans les plans.
+:::
+
+## Le discours populaire des infrastructures vertes
+
+![[Le rapport sur les enjeux
+nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/parkbenefits_fr.png)
+
+::: notes
+-   La majorité des projets qui incorporent l'infrastructure verte avoir
+    un discours populaire autour de lui
+-   Les bénéfices qu'il prétend sont divers : l'infrastructure verte a
+    des avantages pour la biodiversité, il augmente la résilience de nos
+    villes, il change la cohésion sociale de nos quartiers, etc
+-   C'est sûr que plusieurs bénéfices dans le discours ou possiblement
+    tous de ces bénéfices sont vrai dans les projets divers mais souvent
+    elles ne sont pas interrogées
+-   A cause de ça, on sait pas quelles sont les infrastructures vertes
+    qui fournissent chaque bénéfice, et quel type d'aménagement peut
+    maximiser la fourniture des bénéfices
+-   Ce manque dans la recherche est à l'origine de notre projet
+:::
+
+## 
+
+![](presentation_imgs/conceptual_model.png)
+
+::: notes
+-   Dans le discours populaire d'infrastructure verte, il y a deux
+    catégories qu'on peut s'appelle « écologiques »
+-   La première catégorie on s'appelle des bénéfices écologiques
+    -   Cette catégorie peut être décrite comme la nature pour la nature
+    -   Des bénéfices dans cette catégorie sont reçus par la nature
+        elle-même
+    -   Quelques exemples sont la fourniture d'habitats naturelles et la
+        biodiversité
+-   La deuxième catégorie on s'appelle des services écosystemiques
+    -   Cette catégorie peut être décrire comme la nature pour la
+        société
+    -   Des bénéfices sont reçus par la société et les humains qui la
+        composent
+    -   Quelques exemples sont l'atténuation de la température et
+        l'approvisionnement alimentaire
+:::
+
+## L'étude de cas des ruelles vertes
+
+::: columns
+::: {.column width="60%"}
+::: {layout="[[-1], [1], [-1]]"}
+-   Augmenter la biodiversité
+
+-   Augmenter la connectivité écologique
+
+-   Réduire l'effet des îlots de chaleur
+
+-   Améliorer la qualité de l'air
+
+-   Fournissent des habitats pour des petits mammifères, des oiseaux et
+    des insectes
+:::
+:::
+
+::: {.column width="40%"}
+::: {layout="[[-1], [1], [-1]]"}
+![](presentation_imgs/ecoquartiers.png){fig-align="left"}
+:::
+:::
+:::
+
+::: notes
+-   On peut utiliser des ruelles vertes comme une étude de cas du
+    discours populaire et des tendances autour de l'infrastructure verte
+-   Ruelles vertes sont interessantes parce qu'elles nous donne une
+    possibilité de verdir dans les villes assez denses. En général,
+    elles ont aimé de ses résidents et leur popularité augmente autour
+    du monde
+-   De plus, il y a un discours populaire associée à les ruelles vertes.
+    Par exemple, le regroupement des éco quartiers est un organisme qui
+    gère le programme des ruelles vertes à Montréal. Sur leur site web,
+    la liste des bénéfices produisent par les ruelles vertes est longue
+    et elle inclut des choses comme:
+    -   augmenter la biodiversité
+    -   augmenter la connectivité écologique
+    -   réduire l'effet des îlots de chaleur
+    -   améliorer la qualité de l'air
+    -   fournissent des habitats pour des petits mammifères, des oiseaux
+        et des insectes
+-   Mais maintenant on sait pas exactement les avantages et désavantages
+    des ruelles vertes dans la majorité des projets
+:::
+
+## Nos questions de recherche
+
+::: columns
+::: {.column width="50%"}
+::: incremental
+1.  Quels sont les bénéfices écologiques fournis par les ruelles vertes?
+
+2.  Quels sont les services écosystémiques fournis par les ruelles
+    vertes?
+
+3.  Quels sont les compromis entre les deux?
+:::
+:::
+
+::: {.column width="50%"}
+![](presentation_imgs/newruelle.jpg){width="60%"}
+:::
+:::
+
+::: notes
+-   Cette question nous inspire de formuler trois questions de recherche
+-   La première, quels sont les bénéfices écologiques fournis par les
+    ruelles vertes? Ici, les bénéfices écologiques sont la catégorie «
+    la nature pour la nature » qu'on a discuté avant
+-   Le deuxième, quels sont les service écosystemiques fournis par les
+    ruelles vertes? Ceux-ci sont « la nature pour la société »
+-   Finalement, on a une question : quels sont les compromis entre les
+    deux? Souvent, c'est difficile de gérer une éspace verte de
+    maximiser tous les bénéfices. Par exemple, un terrain de soccer est
+    vraiment important pour la santé des résidents mais il diminue
+    l'espace disponible pour des arbres. En plus, quand il y a un budget
+    limité, nos options sont limitées
+-   Donc, on a fait une hypothèse que les ruelles vertes vont fournir
+    plus de bénéfices écologiques ET services écosystemiques mais le
+    niveau de bénéfices et services va être dépendante sur l'aménagement
+:::
+
+## Échantillonnage des données écologiques {.smaller}
+
+::: columns
+::: {.column width="70%"}
+![](presentation_imgs/studymap.png){fig-align="left"}
+:::
+
+::: {.column width="30%"}
+::: {layout="[[-1], [1], [-1]]"}
+-   Température de l'air
+
+-   Complexité de la végétation
+
+-   Inventaire des arbres (abondance et diversité)
+
+-   Présence des lucioles
+
+-   Inventaire total de la végétation
+:::
+:::
+:::
+
+::: notes
+-   De répondre à nos questions, on a enchantillonné des données
+    écologiques dans les ruelles vertes de deux villes: Montréal et
+    Trois-Rivières.
+-   À Montréal on a enchantilloné les ruelles vertes à seulement une
+    arrondissement -- Villeray Saint Michel Parc Extension. À TR, le
+    programme des ruelles vertes est plus neuf donc elle a 13 ruelles
+    vertes en totale, et on a enchantillonné toutes.
+-   À chaque ville, on a enchantilloné des ruelles vertes, des ruelles
+    traditionelles, et des segments de rue avoisinné
+-   À chaque site, on a fait des mesures écologique, comme le
+    température de l'air, la complexité de la végétation, une inventaire
+    des arbres, on a mesuré le présence des lucioles et nos
+    collaborateurs à UdeM a fait une inventaire total de la végétation
+-   Tous ces mesures a été pris en 2023
+:::
+
+## L'analyse des bénéfices écologiques et des services écosystémiques
+
+![](presentation_imgs/analysis_model.png)
+
+::: notes
+-   Pour nos analyses, on retourne aux deux categories des bénéfices -
+    Premièrement, on va analyser des bénéfices écologiques qui sont
+    fournir par les ruelles vertes - ce catégorie est plus comme un
+    analyse écologique « classique » où on evalue si les ruelles vertes
+    ont plus de la biodiversité avec des mesures comme la presence des
+    lucioles, l'abondance de végétation, etc.
+-   Deuxièment, on va analyser des services écosystémiques fourni par
+    les ruelles vertes
+-   Pour ce catégorie on a utilisé une methodologie interdisciplinaire.
+    Mes collegues à UQAM et Respire a fait des entretiens avec les
+    residents des ruelles vertes
+-   On a lit les transcriptions des entretiens et on a identifié des
+    services écosystémiques le plus importants pour les residents
+-   Et maintenant, on va utiliser la liste des services le plus
+    importants pour les residents de faire nos analyses
+-   Par exemple, le verdissement et l'atténuation de la témperature
+:::
+
+## La biodiversité des arbres est très variable
+
+![](presentation_imgs/treespecies.png){fig-align="center"}
+
+::: notes
+On a pas fini nos analyses mais maintent je vais vous presenter une
+bénéfice écologique, une service écosystémique, et un compromis entre le
+deux pour expliquer notre cadre de travail - Premièrement, on a une
+bénéfice écologique : la biodiversité des arbres dans les differents
+types d'infrastructure. Sur l'axe y il y a le nombre d'espèces d'arbres
+et sur l'axe x il y a les differents types d'infrastructures. Chaque
+point est une site differente - On peut voir qu'il y a plus d'espèces
+d'arbres à Montréal en général, mais aussi à Montréal on voit qu'il y a
+beaucoup de variation dans les ruelles vertes en ce qui concerne le
+nombre d'espèces - Et generalement, les ruelles traditionelles ont moins
+diversité que les ruelles vertes et les segments des rues
+:::
+
+## L'atténuation de la température est variable à Montréal
+
+::: r-stack
+![](presentation_imgs/mtltemp.png){fig-align="center" width="70%"}
+
+![](presentation_imgs/ruelles_mtl.png){.fragment fig-align="center"
+width="60%"}
+:::
+
+::: notes
+-   Maintenant on examine une service écosystémique: l'atténuation de la
+    température
+-   Ici, l'axe y est l'effet de refroidissement, donc un numero positif
+    indique que la ruelle verte est plus fraiche qu'une ruelle
+    traditionelle. Par contre, si l'effet de refroidissement est
+    negative, la ruelle verte est plus chaud qu'une ruelle
+    traditionelle.
+-   Le graphique au gauche est pendant le jour et le graphique au droit
+    est pendant la nuit, chaque ligne est une ruelle verte differente
+-   Ici il y a beaucoup de variation -- des lignes dessus et dessous
+    zero
+-   Mais, certains d'entre vous savent deja, les ruelles vertes à
+    Montréal sont très variable
+-   Certains sont très verts, comme la ruelle au gauche ici -- avec
+    quelques arbres, arbustes, et gazon. Mais certains sont un peu gris,
+    comme la ruelle au droit avec quelques boites du plantes
+-   En fait, les resultats de l'attenuation de la température ont raison
+:::
+
+## À Trois-Rivieres, les ruelles vertes rafraîchissent la nuit
+
+::: columns
+::: {.column width="70%"}
+![](presentation_imgs/trtemp.png){fig-align="left"}
+:::
+
+::: {.column width="30%"}
+![](presentation_imgs/RV-TR-12.jpg){fig-align="right"}
+:::
+:::
+
+::: notes
+-   Mais, quand on voit l'attenuation de la température à TR, c'est
+    possible de voir une tendance. Pendant le jour, la majorité des
+    ruelles vertes sont plus chaud que les ruelles traditionelles. Mais
+    dans la nuit, la tendance s'inverse et la majorité des ruelles
+    vertes sont plus fraiches que les ruelles traditionelles
+-   Les ruelles vertes à TR sont differentes que les ruelles vertes à
+    Montréal. Ils sont gèrer par la ville, donc elles ont tous la même
+    apparence comme la photo ici.
+:::
+
+## Il y a possiblement un compromis entre la biodiversité et la température
+
+![](presentation_imgs/tempdiv_tradeoff.png){fig-align="center"}
+
+::: notes
+-   Et finalement, on va voir un compromis entre la biodiversité et la
+    température.
+-   Ici on a des quatres graphiques de la température que vous avez deja
+    vu. Mais, maintenant on a surligné en bleu des ruelles vertes qui
+    ont le plus grand nombre d'espèces d'arbes.
+-   La chose important ici est qu'il n'y a pas une tendance avec
+    l'attenuation de la temperature et le nombre d'especes d'arbres.
+    Parfois, les ruelles avec le plus grand nombre d'especes sont plus
+    fraiche, parfois elles sont plus chaud.
+-   Si on gere une ruelle verte d'avoir un hait niveau d'especes, c'est
+    pas une garantie qu'on va avoir aussi l'attenuation de la
+    temperature
+-   Des compromis comme ça c'est important quand on pense aux nouveaux
+    projets de l'infrastructure verte
+:::
+
+##  {background-image="presentation_imgs/dogwood.png"}
+
+::: columns
+::: {.column width="90%"}
+::: {style="background-color: #c0c0beff; opacity: 80%"}
+**Points à retenir**
+
+-   Les ruelles vertes offrent des bénéfices importants
+
+-   Nous ne savons pas quelles infrastructures vertes ni quels types
+    d'aménagement offrent le plus bénéfices
+
+-   Probablement il y a des compromis entre les bénéfices écologiques et
+    les services écosystemiques
+
+-   Il y a des choses à venir !
+:::
+:::
+:::
+
+::: notes
+-   Donc, pour conclure j'ai quelques points à retenir
+-   Premièrement, les ruelles vertes offrent des benefices importants --
+    ça c'est sur.
+-   Mais, maintenant avec la recherche qu'on a, on sait pas quelles
+    infrastructures vertes ni quels types d'amenagement offrent le plus
+    benefices
+-   Et en fait, probablement il y a des compromis entre les differentes
+    types de benefices -- c'est une chose qu'on doit penser à
+-   Et finalement, cette presentation était juste une pièce d'un projet
+    plus grande. Il y a beaucoup de choses à venir
+:::
+
+## Merci beaucoup!
+
+::: columns
+::: {.column width="60%"}
+![](presentation_imgs/FR-Zule-logo_green.png)
+
+![](presentation_imgs/LabPhoto_Summer2024.jpg){width="70%"
+fig-align="center"}
+:::
+
+::: {.column width="40%"}
+::: {layout="[[-1], [1], [-1]]"}
+-   Johanna Arnet
+-   Mes collaborateurs/collaboratrices à UQAM, Organisme Respire, UdeM
+-   Les personnes interviewées
+-   Les ruelles !
+:::
+:::
+:::
+
+::: notes
+Je veux dire merci à tous me collaborateurs et collaboratrices, aussi à
+mon labo, Johanna qui m'a aidé beaucoup avec les analyses, et bien sûr
+tous les personnes interviewées et tous les ruelles. Merci!
+:::
+
+## Des questions?
+
+![](presentation_imgs/secrets.jpg){fig-align="center"}
+
+::: notes
+Je suis heuruse de prendre vos questions! Merci beaucoup pour votre
+temps et attention!
+:::
