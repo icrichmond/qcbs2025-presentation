@@ -137,9 +137,11 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 ::: columns
 ::: {.column width="50%"}
 ::: incremental
-1.  Est-ce que les ruelles vertes fournissent plus du **soutien de la biodiversité** que les ruelles grises et les rues ?
+1.  Est-ce que les ruelles vertes fournissent plus du **soutien de la
+    biodiversité** que les ruelles grises et les rues ?
 
-2.  Est-ce que les ruelles vertes fournissent plus des **services écosystémiques** que les ruelles grises et les rues ?
+2.  Est-ce que les ruelles vertes fournissent plus des **services
+    écosystémiques** que les ruelles grises et les rues ?
 :::
 :::
 
@@ -228,23 +230,13 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 -   Par exemple, le verdissement et l'atténuation de la témperature
 :::
 
-## La biodiversité des arbres est très variable
+## Resultats des entretiens
 
-![](presentation_imgs/treespecies.png){fig-align="center"}
 
-::: notes
-On a pas fini nos analyses mais maintent je vais vous presenter une
-bénéfice écologique, une service écosystémique, et un compromis entre le
-deux pour expliquer notre cadre de travail - Premièrement, on a une
-bénéfice écologique : la biodiversité des arbres dans les differents
-types d'infrastructure. Sur l'axe y il y a le nombre d'espèces d'arbres
-et sur l'axe x il y a les differents types d'infrastructures. Chaque
-point est une site differente - On peut voir qu'il y a plus d'espèces
-d'arbres à Montréal en général, mais aussi à Montréal on voit qu'il y a
-beaucoup de variation dans les ruelles vertes en ce qui concerne le
-nombre d'espèces - Et generalement, les ruelles traditionelles ont moins
-diversité que les ruelles vertes et les segments des rues
-:::
+## Les ruelles vertes présentent des niveaux similaires ou supérieurs de soutien de la biodiversité {.smaller}
+
+
+## Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques {.smaller}
 
 ## L'atténuation de la température est variable à Montréal
 
@@ -298,27 +290,6 @@ width="60%"}
     apparence comme la photo ici.
 :::
 
-## Il y a possiblement un compromis entre la biodiversité et la température
-
-![](presentation_imgs/tempdiv_tradeoff.png){fig-align="center"}
-
-::: notes
--   Et finalement, on va voir un compromis entre la biodiversité et la
-    température.
--   Ici on a des quatres graphiques de la température que vous avez deja
-    vu. Mais, maintenant on a surligné en bleu des ruelles vertes qui
-    ont le plus grand nombre d'espèces d'arbes.
--   La chose important ici est qu'il n'y a pas une tendance avec
-    l'attenuation de la temperature et le nombre d'especes d'arbres.
-    Parfois, les ruelles avec le plus grand nombre d'especes sont plus
-    fraiche, parfois elles sont plus chaud.
--   Si on gere une ruelle verte d'avoir un hait niveau d'especes, c'est
-    pas une garantie qu'on va avoir aussi l'attenuation de la
-    temperature
--   Des compromis comme ça c'est important quand on pense aux nouveaux
-    projets de l'infrastructure verte
-:::
-
 ##  {background-image="presentation_imgs/dogwood.png"}
 
 ::: columns
@@ -328,13 +299,12 @@ width="60%"}
 
 -   Les ruelles vertes offrent des bénéfices importants
 
--   Nous ne savons pas quelles infrastructures vertes ni quels types
-    d'aménagement offrent le plus bénéfices
+-   Les bénéfices apportés par les ruelles vertes sont très variables
 
--   Probablement il y a des compromis entre les bénéfices écologiques et
-    les services écosystemiques
+    -   Surtout à Montréal
 
--   Il y a des choses à venir !
+-   Actuellement, le soutien de la biodiversité est plus haut que les
+    services écosystémiques dans nos ruelles
 :::
 :::
 :::
@@ -383,6 +353,6 @@ tous les personnes interviewées et tous les ruelles. Merci!
 ![](presentation_imgs/secrets.jpg){fig-align="center"}
 
 ::: notes
-Je suis heuruse de prendre vos questions! Merci beaucoup pour votre
+Je suis heureuse de prendre vos questions! Merci beaucoup pour votre
 temps et attention!
 :::
