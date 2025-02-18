@@ -4,7 +4,6 @@ author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Lauren Bianco, Antonia Viei
 title-slide-attributes:
   data-background-image: /presentation_imgs/image832.png
   data-background-opacity: "0.65"
-  data-notes: "Allo, je suis Bella et je fais ma doctorante à l'Université de Concordia. Aujourd'hui je vous présente une partie de mon doc, en collaboration avec mes collègues a UQAM, Respire, et UdeM qui s'appelle « Les ruelles vertes du Québec et leurs bénéfices écologiques : les liens entre la variation des bénéfices et l'aménagement et la gestion des ruelles »"
 format: 
   revealjs:
     theme: simple
@@ -138,12 +137,9 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 ::: columns
 ::: {.column width="50%"}
 ::: incremental
-1.  Quels sont les bénéfices écologiques fournis par les ruelles vertes?
+1.  Est-ce que les ruelles vertes fournissent plus du **soutien de la biodiversité** que les ruelles grises et les rues ?
 
-2.  Quels sont les services écosystémiques fournis par les ruelles
-    vertes?
-
-3.  Quels sont les compromis entre les deux?
+2.  Est-ce que les ruelles vertes fournissent plus des **services écosystémiques** que les ruelles grises et les rues ?
 :::
 :::
 
