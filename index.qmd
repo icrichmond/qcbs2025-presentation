@@ -1,5 +1,5 @@
 ---
-title: "Les ruelles vertes du Québec et leurs bénéfices écologiques"
+title: "Les ruelles vertes du Québec offrent un soutien variable de la biodiversité et aux services écosystémiques"
 author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
 title-slide-attributes:
   data-background-image: /presentation_imgs/image832.png
@@ -207,7 +207,7 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 -   Tous ces mesures a été pris en 2023
 :::
 
-## L'analyse des bénéfices écologiques et des services écosystémiques
+## L'analyse du soutien de la biodiversité et des services écosystémiques
 
 ![](presentation_imgs/analysis_model.png)
 
@@ -232,16 +232,38 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 
 ## Resultats des entretiens
 
+::: columns
+::: {.column width="60%"}
+-   19 services écosystémiques ont été mentionnés
 
-## Les ruelles vertes présentent des niveaux similaires ou supérieurs de soutien de la biodiversité {.smaller}
+-   Le verdissement, la présence d'arbres et la régulation de la température ont été les plus mentionnées
+
+    -   Toutes les mentiones aux ces sujets étaient positives
+:::
+
+::: {.column width="40%"}
+![](presentation_imgs/kev.jpg){fig-align="center" width="80%"}
+:::
+:::
 
 
-## Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques {.smaller}
+##
+
+**Les ruelles vertes présentent des niveaux similaires ou supérieurs de soutien de la biodiversité**
+
+![](presentation_imgs/ecobens.png){fig-align="center"}
+
+
+##
+
+**Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques**
+
+![](presentation_imgs/ecoservs.png){fig-align="center"}
 
 ## L'atténuation de la température est variable à Montréal
 
 ::: r-stack
-![](presentation_imgs/mtltemp.png){fig-align="center" width="70%"}
+![](presentation_imgs/vsmpe_tod.png){fig-align="center" width="70%"}
 
 ![](presentation_imgs/ruelles_mtl.png){.fragment fig-align="center"
 width="60%"}
@@ -271,7 +293,7 @@ width="60%"}
 
 ::: columns
 ::: {.column width="70%"}
-![](presentation_imgs/trtemp.png){fig-align="left"}
+![](presentation_imgs/tr_tod.png){fig-align="left"}
 :::
 
 ::: {.column width="30%"}
