@@ -1,6 +1,6 @@
 ---
-title: "Les ruelles vertes du Québec offrent un soutien variable de la biodiversité et aux services écosystémiques"
-author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
+title: "Support for biodiversity and ecosystem services highly variable across green alleys"
+author: "Isabella C. Richmond, Kayleigh Hutt-Taylor, Johanna Arnet, Lauren Bianco, Antonia Vieira Zanella, Carly D. Ziter"
 title-slide-attributes:
   data-background-image: /presentation_imgs/image832.png
   data-background-opacity: "0.65"
@@ -356,7 +356,6 @@ fig-align="center"}
 
 ::: {.column width="40%"}
 ::: {layout="[[-1], [1], [-1]]"}
--   Johanna Arnet
 -   Mes collaborateurs/collaboratrices à UQAM, Organisme Respire, UdeM
 -   Les personnes interviewées
 -   Les ruelles !
