@@ -132,16 +132,52 @@ nationaux](https://changingclimate.ca/national-issues/fr/)](presentation_imgs/pa
 ## Résultats des entretiens
 
 ::: columns
-::: {.column width="60%"}
+::: {.column width="40%"}
 -   19 services écosystémiques ont été mentionnés
+-   Plusieurs entre eux sont culturelle
 
--   Le verdissement, la présence d'arbres et la régulation de la température ont été les plus mentionnées
-
-    -   Toutes les mentiones aux ces sujets étaient positives
 :::
 
-::: {.column width="40%"}
-![](presentation_imgs/kev.jpg){fig-align="center" width="80%"}
+::: {.column width="60%"}
+
+```{r}
+#| echo: false
+#| eval: true
+#| warning: false
+#| message: false
+#| label: table-s3
+
+library(scales)
+library(dplyr)
+library(flextable)
+
+interviews <- read.csv('presentation_imgs/es_coding.csv') %>% 
+  select(-c(TotalPeopleMentions))
+
+t <- col_bin("Greens", domain = 0:75)
+
+interviews %>% 
+  arrange(desc(TotalMentions)) %>% 
+  flextable() %>% 
+  bg(
+    j = c("TotalMentions"),
+    bg = t, part = "body"
+  ) %>% 
+  set_header_labels(
+    EcosystemService = "Service écosystémique",
+    TotalMentions = "Nombre total de mentions"
+  ) %>%
+  set_table_properties(
+    opts_html = list(
+      scroll = list(
+      height = "500px",
+      freeze_first_column = TRUE))
+  ) %>% 
+  fontsize(size = 18, part = 'all')
+
+
+
+```
 :::
 :::
 
@@ -233,16 +269,12 @@ width="60%"}
 :::
 
 ::: notes
--   Donc, pour conclure j'ai quelques points à retenir
--   Premièrement, les ruelles vertes offrent des benefices importants --
-    ça c'est sur.
--   Mais, maintenant avec la recherche qu'on a, on sait pas quelles
-    infrastructures vertes ni quels types d'amenagement offrent le plus
-    benefices
--   Et en fait, probablement il y a des compromis entre les differentes
-    types de benefices -- c'est une chose qu'on doit penser à
--   Et finalement, cette presentation était juste une pièce d'un projet
-    plus grande. Il y a beaucoup de choses à venir
+-   Some takeaways from our work: 
+-   Its certain that green alleys have important benefits, some of which we measured in our study but many of which we didn't 
+-   Not all alleys are providing the same level or types of benefits, and different management has different outcomes
+-   Montreal had more variable levels of the benefits we measured but also because they are resident led they are much more adaptable t o the needs of the community
+-   On the other hand, TR green alleys have a lot less variation but cannot adapt to the needs of their community 
+-   Finally, right now we are seeing that our alleys have higher levels of biodiversity support than ecosystem services when talking about tree-based benefits 
 :::
 
 ## Merci beaucoup!
