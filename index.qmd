@@ -220,12 +220,14 @@ width="60%"}
 
 -   Les ruelles vertes offrent des bénéfices importants
 
--   Les bénéfices apportés par les ruelles vertes sont très variables
+-   Les différents types de gestion ont des bénéfices différents
 
-    -   Surtout à Montréal
+    -   Montréal est plus variable mais aussi plus flexible
+    -   TR est moins variable mais moins apte à s'adapter aux besoins de la communauté
 
 -   Actuellement, le soutien de la biodiversité est plus haut que les
-    services écosystémiques dans nos ruelles
+    services écosystémiques dans nos ruelles **pour les bénéfices fournis par les arbres**
+    
 :::
 :::
 :::
