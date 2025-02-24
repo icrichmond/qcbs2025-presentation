@@ -184,14 +184,14 @@ interviews %>%
 
 ##
 
-**Les ruelles vertes présentent des niveaux similaires ou supérieurs de soutien de la biodiversité**
+**Les ruelles vertes présentent des niveaux similaires ou supérieurs de soutien de la biodiversité que les ruelles grises**
 
 ![](presentation_imgs/ecobens.png){fig-align="center"}
 
 
 ##
 
-**Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques**
+**Les ruelles vertes présentent des niveaux similaires ou inférieurs de services écosystémiques que les ruelles grises**
 
 ![](presentation_imgs/ecoservs.png){fig-align="center"}
 
